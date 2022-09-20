@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://moustaph-ndoye.com/">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Problem+Solver;Creator;Innovator;Flutter+Developer;UX+UI+Designer;Learner;&center=true&width=500&height=50&color=f28a00">
+</p>
+
+<p align="center">
+  <a href="https://hamadahiro.github.io/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hamadahiro&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamadahiro&theme=dark&hide_border=true" />
   </a>
@@ -42,4 +46,8 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![Moustapha Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=hamadahiro&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://moustapha-ndoye.com)
+[![Moustapha Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=hamadahiro&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://hamadahiro.github.io)
+
+<br/>
+
+
