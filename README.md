@@ -1,22 +1,19 @@
 # Hi there, I'm Serigne Moustapha Sy Ndoye 👋
 
-<!--
-**HamadaHiro/HamadaHiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently building beautiful mobile apps with Flutter
+- 🌱 I’m currently learning about Ethical Hacking, AI, IOT, OSINT
+- 👯 I’m looking to collaborate on innovative projects that solves problems
+- 🤔 I’m looking for help with maintaining opensource flutter packages
+- 💬 Ask me about astronomy, aerodynamics and flight mechanics, psychology and human behavior
+- 📫 How to reach me : Email me at contact@moustapha-ndoye.com
+- ⚡ Fun fact: I'm a runner (Marathon, Half Marathon, 10Km, 5Km)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Problem+Solver;Creator;Innovator;Flutter+Developer;UX+UI+Designer;Learner;&center=true&width=500&height=50&color=f28a00">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solver;Creator;Innovator;UX+UI+Designer;Blogger;Youtuber;Learner;Flutter+Developer;OSINT%20Enthusiast;Stack+Overflow+Contributor;OpenSource+contributor+and+evangelist;Linux+Fan;Flutter+package+maintainer;&center=true&width=800&height=50&color=f28a00">
+</p>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=hamadahiro&label=Profile%20Views&color=f28a00" alt="hamadahiro" /> 
 </p>
 
 <p align="center">
@@ -27,10 +24,22 @@ Here are some ideas to get you started:
 </p>
 
 <br/>
+<!--
+<p align="center">
+  <a href="https://meta.stackoverflow.com/users/17224293/moustapha-ndoye"><img src="https://meta.stackoverflow.com/users/flair/17224293.png?theme=dark" width="208" height="58" alt="profile for Moustapha Ndoye at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers" title="profile for Moustapha Ndoye at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers"></a>
+</p>
+-->
+
+<br/>
 
 <p>
 </div> 
 <div align="center">
+  
+  ### Tech Stack
+  
+  <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel&color=151515&logoColor=000&labelColor=f28a00">
@@ -50,4 +59,6 @@ Here are some ideas to get you started:
 
 <br/>
 
+<br/>
 
+### Thanks, Feel free to fork and 🌟 this repo !
