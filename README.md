@@ -27,16 +27,17 @@ Here are some ideas to get you started:
 <p>
 </div> 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel&color=151515&logoColor=000&labelColor=f28a00">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Vue.js-000?style=for-the-badge&logo=vue.js&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-TailwindCss-000?style=for-the-badge&logo=tailwindcss&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Php-000?style=for-the-badge&logo=php&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=151515&logoColor=000&labelColor=f28a00">
 </p>
 
 <br/>
