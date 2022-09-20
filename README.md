@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://profile.codersrank.io/user/hamadahiro/">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hamadahiro&badges=3&show-avatar=true&">
+</a>
