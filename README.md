@@ -40,6 +40,7 @@
   
   <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Gitlab-000?style=for-the-badge&logo=gitlab&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel&color=151515&logoColor=000&labelColor=f28a00">
