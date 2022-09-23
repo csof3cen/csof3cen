@@ -28,7 +28,6 @@
 <p align="center">
   <a href="https://meta.stackoverflow.com/users/17224293/moustapha-ndoye"><img src="https://meta.stackoverflow.com/users/flair/17224293.png?theme=dark" width="208" height="58" alt="profile for Moustapha Ndoye at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers" title="profile for Moustapha Ndoye at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers"></a>
 </p>
-
 -->
 
 <br/>
@@ -44,6 +43,7 @@
   <img src="https://img.shields.io/badge/-Gitlab-000?style=for-the-badge&logo=gitlab&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Apache-000?style=for-the-badge&logo=apache&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel&color=151515&logoColor=000&labelColor=f28a00">
 </div>
 <div align="center">
