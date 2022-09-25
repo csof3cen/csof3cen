@@ -34,25 +34,27 @@
 
 <p>
 </div> 
-<div align="center">
-  
-  ### Tech Stack
-  
+<h3 align="center">Tech Stack</h3>
+<div align="center"> 
   <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Gitlab-000?style=for-the-badge&logo=gitlab&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Apache-000?style=for-the-badge&logo=apache&color=151515&logoColor=000&labelColor=f28a00">
-  <img src="https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel&color=151515&logoColor=000&labelColor=f28a00">
 </div>
 <div align="center">
+  <img src="https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Vue.js-000?style=for-the-badge&logo=vue.js&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-TailwindCss-000?style=for-the-badge&logo=tailwindcss&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Php-000?style=for-the-badge&logo=php&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-MySql-000?style=for-the-badge&logo=mysql&color=151515&logoColor=000&labelColor=f28a00">
 </p>
 
 <br/>
