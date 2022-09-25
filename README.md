@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on innovative projects that solves problems
 - 🤔 I’m looking for help with maintaining opensource flutter packages
 - 💬 Ask me about astronomy, aerodynamics and flight mechanics, psychology and human behavior
-- 📫 How to reach me : Email me at contact@moustapha-ndoye.com
+- 📫 How to reach me : Email me at contact@moustapha.dev
 - ⚡ Fun fact: I'm a runner (Marathon, Half Marathon, 10Km, 5Km)
 
 <p align="center">
