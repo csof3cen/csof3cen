@@ -1,7 +1,7 @@
 # Hi there, I'm Moustapha 👋
 
 - 🔭 I’m currently building beautiful mobile apps with Flutter
-- 🌱 I’m currently learning about Ethical Hacking, AI, IOT, OSINT
+- 🌱 I’m also learning about Ethical Hacking, AI, IOT, OSINT
 - 👯 I’m looking to collaborate on innovative projects that solves problems
 - 🤔 I’m looking for help with maintaining opensource flutter packages
 - 💬 Ask me about astronomy, aerodynamics and flight mechanics, psychology and human behavior
