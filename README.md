@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with maintaining opensource flutter packages
 - 💬 Ask me about astronomy, aerodynamics and flight mechanics, psychology and human behavior
 - 📫 How to reach me : Email me at contact@moustapha.dev
-- ⚡ Fun fact: I'm a runner (Half Marathon, 10Km, 5Km)
+- ⚡ Fun fact: I'm a runner (Half Marathon, 10Km, 5Km) & a beginner drone pilot 🧑‍✈🚀
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solver;Creator;Innovator;UX+UI+Designer;Blogger;Youtuber;Learner;Flutter+Developer;OSINT%20Enthusiast;Stack+Overflow+Contributor;OpenSource+contributor+and+evangelist;Linux+Fan;Flutter+package+maintainer;&center=true&width=800&height=50&color=f28a00">
