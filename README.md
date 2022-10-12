@@ -57,6 +57,8 @@
   <img src="https://img.shields.io/badge/-MySql-000?style=for-the-badge&logo=mysql&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Android-000?style=for-the-badge&logo=android&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-iOS-000?style=for-the-badge&logo=ios&color=151515&logoColor=000&labelColor=f28a00">
 </p>
 
 <br/>
