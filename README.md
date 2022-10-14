@@ -68,4 +68,4 @@
 
 <br/>
 
-### Thanks, Feel free to fork and 🌟 this repo !
+### Thanks, Feel free to fork, contribute and 🌟 this repo !
