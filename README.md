@@ -4,7 +4,7 @@
 - 🌱 I’m also learning about UX Research, Motion Design, Ethical Hacking, AI, IOT, OSINT, Cloud Computing
 - 👯 I’m looking to collaborate on innovative projects that solves problems
 - 🤔 I’m looking for help with maintaining opensource flutter packages
-- 💬 Ask me about astronomy, aerodynamics and flight mechanics, psychology and human behavior
+- 💬 Ask me about space and astronomy, aerodynamics and flight mechanics, psychology and human behavior
 - 📫 How to reach me : let's connect on linkedin (https://linkedin.com/in/hamadahiro)
 - ⚡ Fun fact: I'm a runner (Half Marathon, 10Km, 5Km) & a beginner drone pilot 🧑‍✈🚀
 
