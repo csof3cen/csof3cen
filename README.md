@@ -13,20 +13,20 @@
 </p>
 
 <p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=hamadahiro&label=Profile%20Views&color=f28a00" alt="hamadahiro" /> 
+   <img src="https://komarev.com/ghpvc/?username=csof3cen&label=Profile%20Views&color=f28a00" alt="me" /> 
 </p>
 
 <p align="center">
-  <a href="https://hamadahiro.github.io/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hamadahiro&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamadahiro&theme=dark&hide_border=true" />
-  </a>
+  <p>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=csof3cen&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=csof3cen&theme=dark&hide_border=true" />
+  </p>
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://meta.stackoverflow.com/users/17224293/moustapha-ndoye"><img src="https://meta.stackoverflow.com/users/flair/17224293.png?theme=dark" width="208" height="58" alt="profile for Moustapha Ndoye at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers" title="profile for Moustapha Ndoye at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers"></a>
+  <a href="https://meta.stackoverflow.com/users/17224293/moustapha"><img src="https://meta.stackoverflow.com/users/flair/17224293.png?theme=dark" width="208" height="58" alt="profile for Moustapha at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers" title="profile for Moustapha at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers"></a>
 </p>
 
 <br/>
@@ -63,7 +63,7 @@
 
 <br/>
 
-[![Moustapha Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=hamadahiro&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://hamadahiro.github.io)
+[![Moustapha Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=csof3cen&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](#)
 
 <br/>
 
