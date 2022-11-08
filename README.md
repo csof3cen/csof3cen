@@ -4,7 +4,7 @@
 - 🌱 I’m also learning about UX Research, Motion Design, Ethical Hacking, AI, IOT, OSINT, Cloud Computing
 - 👯 I’m looking to collaborate on innovative projects that solves problems
 - 🤔 I’m looking for help to develop innovative products
-- 💬 Ask me about space and astronomy, aerodynamics and flight mechanics, psychology and human behavior
+- 💬 Ask me about code, space and astronomy, aerodynamics and flight mechanics, psychology and human behavior
 - 📫 How to reach me : let's connect on linkedin : https://linkedin.com/in/csof3cen
 - ⚡ Fun fact: I'm a runner (Half Marathon, 10Km, 5Km) & a beginner drone pilot 🚀
 
@@ -42,8 +42,8 @@
   <img src="https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Apache-000?style=for-the-badge&logo=apache&color=151515&logoColor=000&labelColor=f28a00">
-</div>
-<div align="center">
+<!-- </div>
+<div align="center"> -->
   <img src="https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Vue.js-000?style=for-the-badge&logo=vue.js&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-TailwindCss-000?style=for-the-badge&logo=tailwindcss&color=151515&logoColor=000&labelColor=f28a00">
@@ -51,9 +51,9 @@
   <img src="https://img.shields.io/badge/-Php-000?style=for-the-badge&logo=php&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
-</p>
+<!-- </p>
 
-<div align="center">
+<div align="center"> -->
   <img src="https://img.shields.io/badge/-MySql-000?style=for-the-badge&logo=mysql&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&color=151515&logoColor=000&labelColor=f28a00">
