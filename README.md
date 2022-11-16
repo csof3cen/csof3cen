@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Moustapha
 
 - 🔭 I’m currently building beautiful mobile apps for both Android and iOS with Flutter
-- 🌱 I’m also learning about UX Research, Motion Design, Ethical Hacking, AI, IOT, OSINT, Cloud Computing
+- 🌱 I’m also learning about UX Research, Motion Design, Ethical Hacking, AI, IOT, OSINT, Cloud Computing and C++
 - 👯 I’m looking to collaborate on innovative projects that solves problems
 - 🤔 I’m looking for help to develop innovative products
 - 💬 Ask me about code and general computer science, space and astronomy,
