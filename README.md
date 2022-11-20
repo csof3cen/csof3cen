@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Moustapha
+# Hi there 👋, I'm Moustapha.
 
 - 🔭 I’m currently building beautiful mobile apps for both Android and iOS with Flutter
 - 🌱 I’m also learning about UX Research, Motion Design, Ethical Hacking, AI, IOT, OSINT, Cloud Computing and C++
@@ -72,3 +72,7 @@
 <br/>
 
 ### Thanks, Feel free to fork, contribute and 🌟 this repo !
+
+------
+
+Self-taught computer enthusiast for more than 4 years, I specialized in full-stack web and mobile development and in UX/UI Design. I also works in Digital Marketing, Penetration Testing... and a lot of other things. Very enthusiastic about sharing and acquiring knowledge, I have a blog as well as a YouTube channel where I introduce others to code, design and other various notions... Currently, it make beautiful apps using Flutter, a Google SDK for cross-platform development.
