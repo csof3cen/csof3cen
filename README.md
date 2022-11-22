@@ -4,7 +4,7 @@
 - 🌱 I’m also learning about UX Research, Motion Design, Ethical Hacking, AI, IOT, OSINT, Cloud Computing and C++
 - 👯 I’m looking to collaborate on innovative projects that solves problems
 - 🤔 I’m looking for help to develop innovative products
-- 💬 Ask me about code and general computer science, space and astronomy,
+- 💬 Ask me about code and general computer science, space and astronomy,<br/>
       aerodynamics and flight mechanics, psychology and human behavior
 - 📫 How to reach me : let's connect on linkedin : https://linkedin.com/in/csof3cen
 - ⚡ Fun fact: I'm a runner (21Km, 10Km, 5Km) & a beginner drone pilot 🚀
