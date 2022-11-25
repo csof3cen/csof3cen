@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on innovative projects that solves problems
 - 🤔 I’m looking for help to develop innovative products
 - 💬 Ask me about code and general computer science, space and astronomy,<br/>
-      aerodynamics and flight mechanics, psychology and human behavior
+      &emsp;&emsp;aerodynamics and flight mechanics, psychology and human behavior
 - 📫 How to reach me : let's connect on linkedin : https://linkedin.com/in/csof3cen
 - ⚡ Fun fact: I'm a runner (21Km, 10Km, 5Km) & a beginner drone pilot 🚀
 
