@@ -73,6 +73,24 @@
 
 ### Thanks, Feel free to fork, contribute and 🌟 this repo !
 
+<br/>
+
 ------
 
-Self-taught computer enthusiast for more than 4 years, I specialized in full-stack web and mobile development and in UX/UI Design. I also works in Digital Marketing, Penetration Testing... and a lot of other things. Very enthusiastic about sharing and acquiring knowledge, I have a blog as well as a YouTube channel where I introduce others to code, design and other various notions... Currently, it make beautiful apps using Flutter, a Google SDK for cross-platform development.
+<br/>
+<div align="center">
+  <a href="https://moustapha.dev">
+        <img src="https://img.shields.io/badge/-Personal Website-000?style=for-the-badge&logo=internet&color=151515&logoColor=000&labelColor=f28a00">
+  </a>
+  <a href="https://youtube.com/@csof3cen">
+      <img src="https://img.shields.io/badge/-Youtube Channel-000?style=for-the-badge&logo=youtube&color=151515&logoColor=000&labelColor=f28a00">
+  </a>
+  <a href="https://blog.moustapha.dev">
+      <img src="https://img.shields.io/badge/-Blog-000?style=for-the-badge&logo=hashnode&color=151515&logoColor=000&labelColor=f28a00">
+  </a>
+</div>
+<br/>
+
+------
+<br/>
+Self-taught computer enthusiast for more than 4 years, I specialized in full-stack web and mobile development and in UX/UI Design. I also works in Digital Marketing, Penetration Testing... and a lot of other things. Very enthusiastic about sharing and acquiring knowledge, I have a blog as well as a YouTube channel where I introduce others to code, design and other various notions... Currently, it make beautiful mobile apps using Flutter, a Google SDK for cross-platform development.
