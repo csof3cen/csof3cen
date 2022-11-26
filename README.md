@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Apache-000?style=for-the-badge&logo=apache&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&color=151515&logoColor=000&labelColor=f28a00">
 <!-- </div>
 <div align="center"> -->
   <img src="https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel&color=151515&logoColor=000&labelColor=f28a00">
