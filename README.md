@@ -3,11 +3,11 @@
 - 🔭 I’m currently building beautiful mobile apps for both Android and iOS with Flutter
 - 🌱 I’m also learning about UX Research, Motion Design, Ethical Hacking, AI, IOT, OSINT, Cloud Computing and C++
 - 👯 I’m looking to collaborate on innovative projects that solve problems
-<!--- 🤔 I’m looking for help to develop innovative products-->
 - 💬 Ask me about code and general computer science, space and astronomy,<br/>
       &emsp;&emsp;aerodynamics and flight mechanics, psychology and human behavior
 - 📫 How to reach me : let's connect on linkedin : https://linkedin.com/in/csof3cen
 - ⚡ Fun fact: I'm a runner (21Km, 10Km, 5Km) & a beginner drone pilot 🚀
+<!--- 🤔 I’m looking for help to develop innovative products-->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solver;Creator;Innovator;UX+UI+Designer;Blogger;Youtuber;Learner;Flutter+Developer;OSINT%20Enthusiast;Stack+Overflow+Contributor;OpenSource+contributor+and+evangelist;Linux+Fan;Flutter+package+maintainer;&center=true&width=800&height=50&color=f28a00">
