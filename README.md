@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Moustapha ( @csof3cen ).
+# Hi there 👋, I'm Moustapha ( @csof3cen )
 
 - 🔭 I’m currently building beautiful mobile apps for both Android and iOS with Flutter
 - 🌱 I’m also learning about UX Research, Motion Design, Ethical Hacking, AI, IOT, OSINT, Cloud Computing and C++
