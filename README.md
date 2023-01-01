@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/-Php-000?style=for-the-badge&logo=php&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-Adonis.js-000?style=for-the-badge&logo=adonisjs&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
 <!-- </p>
 
