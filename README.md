@@ -64,6 +64,8 @@
   <img src="https://img.shields.io/badge/-Android-000?style=for-the-badge&logo=android&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-iOS-000?style=for-the-badge&logo=ios&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c&color=151515&logoColor=000&labelColor=f28a00">
 </p>
 
 <br/>
