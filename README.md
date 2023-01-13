@@ -13,9 +13,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solver;Creator;Innovator;UX+UI+Designer;Blogger;Youtuber;Learner;Flutter+Developer;OSINT%20Enthusiast;Stack+Overflow+Contributor;OpenSource+contributor+and+evangelist;Linux+Fan;Flutter+package+maintainer;&center=true&width=800&height=50&color=f28a00">
 </p>
 
-<p align="center"> 
+<!-- <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=csof3cen&label=Profile%20Views&color=f28a00&style=for-the-badge" alt="me" /> 
+</p> -->
+
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/csof3cen/count.svg" />
 </p>
+
 
 <p align="center">
   <p>
@@ -34,7 +44,7 @@
 
 <p>
 </div> 
-<h3 align="center">Tech Stack</h3>
+## Tech Stack
 <div align="center"> 
   <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&color=151515&logoColor=000&labelColor=f28a00">
@@ -99,7 +109,7 @@
 ------
 <br/>
 
-### A little about me
+## A little about me
 
 Self-taught computer enthusiast for more than 4 years, I specialized in full-stack web and mobile development and in UX/UI Design. I also works in Digital Marketing, Penetration Testing... and a lot of other things. Very enthusiastic about sharing and acquiring knowledge, I have a blog as well as a YouTube channel where I introduce others to code, design and other various notions... Currently, it make beautiful mobile apps using Flutter, a Google SDK for cross-platform development.
 
@@ -108,7 +118,7 @@ Self-taught computer enthusiast for more than 4 years, I specialized in full-sta
 
 ------
 
-### Let me make you laugh with a random joke !😂 (Refresh to get a new one)
+## Let me make you laugh with a random joke !😂 (Refresh to get a new one)
 <br/>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
