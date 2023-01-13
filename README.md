@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Moustapha ( @csof3cen )
+# Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Moustapha ( <a href="https://github.com/csof3cen">@csof3cen</a> )
 
 - 🔭 I’m currently building beautiful mobile apps for both Android and iOS with Flutter
 - 🌱 I’m also learning about UX Research, Motion Design, Ethical Hacking, AI, IOT, OSINT, Cloud Computing and C++
@@ -70,13 +70,12 @@
 
 <br/>
 
-[![Moustapha Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=csof3cen&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](#)
+<!-- [![Moustapha Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=csof3cen&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](#) -->
+
+<!-- Wakanime stats -->
+<img src="https://wakatime.com/share/@32db4d22-0732-4a3e-b227-fa0454795832/dfe33ae3-5e72-4f3f-b979-d63d7ae4ed83.svg">
 
 <br/>
-
-<br/>
-
-### Thanks, Feel free to fork, contribute and 🌟 this repo !
 
 <br/>
 
@@ -101,6 +100,15 @@
 Self-taught computer enthusiast for more than 4 years, I specialized in full-stack web and mobile development and in UX/UI Design. I also works in Digital Marketing, Penetration Testing... and a lot of other things. Very enthusiastic about sharing and acquiring knowledge, I have a blog as well as a YouTube channel where I introduce others to code, design and other various notions... Currently, it make beautiful mobile apps using Flutter, a Google SDK for cross-platform development.
 
 
+<br/>
+
+------
+
+### Let me make you laugh with a random joke !😂 (Refresh to get a new one)
+<br/>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
 <br/><br/>
 
 <pre>
@@ -112,3 +120,7 @@ Self-taught computer enthusiast for more than 4 years, I specialized in full-sta
            |_|  |_|   |__/                                           
 
 </pre>
+
+<br/>
+
+### Thanks, Feel free to fork, contribute and 🌟 this repo !
