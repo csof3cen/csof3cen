@@ -72,8 +72,9 @@
 
 <!-- [![Moustapha Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=csof3cen&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](#) -->
 
-<!-- Wakanime stats -->
+<!-- Wakanime stats
 <img src="https://wakatime.com/share/@32db4d22-0732-4a3e-b227-fa0454795832/dfe33ae3-5e72-4f3f-b979-d63d7ae4ed83.svg">
+-->
 
 <br/>
 
@@ -97,6 +98,9 @@
 
 ------
 <br/>
+
+### A little about me
+
 Self-taught computer enthusiast for more than 4 years, I specialized in full-stack web and mobile development and in UX/UI Design. I also works in Digital Marketing, Penetration Testing... and a lot of other things. Very enthusiastic about sharing and acquiring knowledge, I have a blog as well as a YouTube channel where I introduce others to code, design and other various notions... Currently, it make beautiful mobile apps using Flutter, a Google SDK for cross-platform development.
 
 
