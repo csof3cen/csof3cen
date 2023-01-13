@@ -44,8 +44,11 @@
 
 <p>
 </div> 
-## Tech Stack
+
 <div align="center"> 
+      
+## Tech Stack
+      
   <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Gitlab-000?style=for-the-badge&logo=gitlab&color=151515&logoColor=000&labelColor=f28a00">
@@ -124,6 +127,8 @@ Self-taught computer enthusiast for more than 4 years, I specialized in full-sta
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 <br/><br/>
+
+------
 
 <pre>
 
