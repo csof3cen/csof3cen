@@ -93,9 +93,11 @@
 
 <br/>
 
-------
 
 <br/>
+
+## Let's connect together
+
 <div align="center">
   <a href="https://moustapha.dev">
         <img src="https://img.shields.io/badge/-Personal Website-000?style=for-the-badge&logo=web&color=151515&logoColor=000&labelColor=f28a00">
@@ -109,7 +111,6 @@
 </div>
 <br/>
 
-------
 <br/>
 
 ## A little about me
@@ -119,8 +120,7 @@ Self-taught computer enthusiast for more than 4 years, I specialized in full-sta
 
 <br/>
 
-------
-
+<!-- 
 ## Let me make you laugh with a random joke !😂 (Refresh to get a new one)
 <br/>
 
@@ -140,6 +140,6 @@ Self-taught computer enthusiast for more than 4 years, I specialized in full-sta
 
 </pre>
 
-<br/>
+<br/> -->
 
 ### Thanks, Feel free to fork, contribute and 🌟 this repo !
