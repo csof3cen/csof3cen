@@ -83,7 +83,7 @@
 
 <br/>
 
-<!-- [![Moustapha Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=csof3cen&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](#) -->
+[![Moustapha Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=csof3cen&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](#)
 
 <!-- Wakanime stats
 <img src="https://wakatime.com/share/@32db4d22-0732-4a3e-b227-fa0454795832/dfe33ae3-5e72-4f3f-b979-d63d7ae4ed83.svg">
