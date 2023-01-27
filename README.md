@@ -6,7 +6,7 @@
 - 💬 Ask me about code and general computer science, space and astronomy,<br/>
       &emsp;&emsp;aerodynamics and flight mechanics, psychology and human behavior
 - 📫 How to reach me : let's connect on linkedin : https://linkedin.com/in/csof3cen or email me : csof3cen[at]gmail[dot]com
-- ⚡ Fun fact: I'm a runner (21Km, 10Km, 5Km) & a beginner drone pilot 🚀. I also love to playing chess : [Come play with me](https://www.chess.com/member/csof3cen)
+- ⚡ Fun fact: I'm a runner (21Km, 10Km, 5Km) & a beginner drone pilot 🚀. I also love playing chess : [Come play with me](https://www.chess.com/member/csof3cen).
 <!--- 🤔 I’m looking for help to develop innovative products-->
 
 <p align="center">
