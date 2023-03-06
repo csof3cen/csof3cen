@@ -116,7 +116,7 @@
 
 ## A little about me
 
-Self-taught computer enthusiast for more than 4 years, I specialized in full-stack web and mobile development and in UX/UI Design. I also works in Digital Marketing, Penetration Testing... and a lot of other things. Very enthusiastic about sharing and acquiring knowledge, I have a blog as well as a YouTube channel where I introduce others to code, design and other various notions... Currently, it make beautiful mobile apps using Flutter, a Google SDK for cross-platform development.
+Self-taught computer enthusiast for more than 4 years, from the age of 13, I specialized in full-stack web and mobile development and in UX/UI Design. I also works in Digital Marketing, Penetration Testing... and a lot of other things. Very enthusiastic about sharing and acquiring knowledge, I have a blog as well as a YouTube channel where I introduce others to code, design and other various notions... Currently, it make beautiful mobile apps using Flutter, a Google SDK for cross-platform development.
 
 
 <br/>
