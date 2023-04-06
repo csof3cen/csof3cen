@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Apache-000?style=for-the-badge&logo=apache&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&color=151515&logoColor=000&labelColor=f28a00">
 <!-- </div>
