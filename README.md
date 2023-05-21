@@ -62,6 +62,7 @@
 <div align="center"> -->
   <img src="https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Vue.js-000?style=for-the-badge&logo=vue.js&color=151515&logoColor=000&labelColor=f28a00">
+  <img src="https://img.shields.io/badge/-React.js-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Nuxt.js-000?style=for-the-badge&logo=nuxt.js&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-TailwindCss-000?style=for-the-badge&logo=tailwindcss&color=151515&logoColor=000&labelColor=f28a00">
   <img src="https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift&color=151515&logoColor=000&labelColor=f28a00">
