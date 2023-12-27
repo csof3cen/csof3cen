@@ -1,4 +1,4 @@
-# Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! I'm Moustapha, a universal genius.
+# Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! I'm Moustapha.
 
 - 🔭 I’m currently building beautiful mobile apps for both Android and iOS with Flutter
 - 🌱 I’m also learning about UX Research, Motion Design, Ethical Hacking, AI, IOT, OSINT, Cloud Computing and C++
